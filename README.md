@@ -4,12 +4,17 @@
 
 ## ABOUT ME
 
-<h4> Hi, I'm a self-taught full-stack web developer who is passionate about new technologies and loves exploring them. 
+ Hi, I'm a self-taught full-stack web developer who is passionate about new technologies and loves exploring them. 
  
-- <h4> 🧑🏻‍💻 currently learning more about M.E.R.N stack.
-- <h4>🎯 I'm into Web3.0, Blockchain and AI technologies.
-- <h4>🏢 I’m looking for a software developer job.
+- 🧑🏻‍💻 currently learning more about M.E.R.N stack.
+- 🎯 I'm into Web3.0, Blockchain and AI technologies.
+- 🏢 I’m looking for a software developer job.
 
+<p align="center">
+<a herf = "https://docs.google.com/document/d/e/2PACX-1vSuu0EfYZvWsxPai7XYGtLuVMdfOJpwhZNnWDXmAB1MwOlizrBQd6N3cTj5AcltC27o6aN2WDnVWpbF/pub">
+<img  width = "140px" src="http://img.shields.io/badge/-Resume-283274?style=flat&logo=read the docs&logoColor=white">
+</a>
+</p>
 
 
 ## TECH & TOOLS
