@@ -11,7 +11,7 @@
 - 🏢 I’m looking for a software developer job.
 
 [<p align="center">
-<img  width = "140px" src="http://img.shields.io/badge/-Resume-283274?style=flat&logo=read the docs&logoColor=white"></p>](https://www.averychan.site/normal-resume/Justin_Avery_Chan_Resume.pdf)
+<img  width = "140px" src="http://img.shields.io/badge/-Resume-283274?style=flat&logo=read the docs&logoColor=white"></p>](https://github.com/thiyagu23/thiyagu23/raw/main/Resume%20(4).pdf)
 
 ## TECH & TOOLS
 
