@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://raw.githubusercontent.com/thiyagu23/thiyagu23/main/2022-08-27-13-21-26_AdobeExpress.gif" >
+<img width = "95%" src ="https://raw.githubusercontent.com/thiyagu23/thiyagu23/main/2022-08-27-13-21-26_AdobeExpress.gif" >
 </p>
 
 ## ABOUT ME
