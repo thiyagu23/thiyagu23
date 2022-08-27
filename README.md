@@ -4,7 +4,7 @@
 
 ## ABOUT ME
 
-<h3> Hi, I'm a self-taught full-stack web developer who is passionate about new technologies and loves exploring them. 
+<h3> Hi, I'm a self-taught full-stack web developer who is passionate about new technologies and loves exploring them. </h3>
 
 - <h3> 🧑🏻‍💻 currently learning more about M.E.R.N stack.
 - <h3>🎯 I'm into Web3.0, Blockchain and AI technologies.
