@@ -36,16 +36,16 @@
 ## PORTFOLIO
 <p align="center" >
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
 </a>
 </p>
 
