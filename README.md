@@ -12,7 +12,7 @@
 
 <p align="center">
 <a herf = "https://docs.google.com/document/d/e/2PACX-1vSuu0EfYZvWsxPai7XYGtLuVMdfOJpwhZNnWDXmAB1MwOlizrBQd6N3cTj5AcltC27o6aN2WDnVWpbF/pub">
-<img  width = "140px" src="http://img.shields.io/badge/-Resume-283274?style=flat&logo=read the docs&logoColor=white">
+<img  width = "140px" src="http://img.shields.io/badge/-Resume-https://docs.google.com/document/d/e/2PACX-1vSuu0EfYZvWsxPai7XYGtLuVMdfOJpwhZNnWDXmAB1MwOlizrBQd6N3cTj5AcltC27o6aN2WDnVWpbF/pub-283274?style=flat&logo=read the docs&logoColor=white">
 </a>
 </p>
 
