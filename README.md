@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <img width = "95%" src ="https://raw.githubusercontent.com/thiyagu23/thiyagu23/main/2022-08-27-13-21-26_AdobeExpress.gif" >
-</p>
+</div>
 
 ## ABOUT ME
 
@@ -10,12 +10,12 @@
 - 🎯 I'm into Web3.0, Blockchain and AI technologies.
 - 🏢 I’m looking for a software developer job.
 
-[<p align="center">
-<img  width = "140px" src="http://img.shields.io/badge/-Resume-283274?style=flat&logo=read the docs&logoColor=white"></p>](https://github.com/thiyagu23/thiyagu23/raw/main/Resume%20(4).pdf)
+[<div align="center">
+<img  width = "140px" src="http://img.shields.io/badge/-Resume-283274?style=flat&logo=read the docs&logoColor=white"></div>](https://github.com/thiyagu23/thiyagu23/raw/main/Resume%20(4).pdf)
 
 ## TECH & TOOLS
 
-<p align="center">
+<div align="center">
 <img width = "80px" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img width = "70px" src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img width = "100px" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
@@ -32,10 +32,10 @@
 <img width = "80px" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img width = "90px" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img width = "80px" src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-</p>
+</div>
 
 ## PORTFOLIO
-<p align="center" >
+<div align="center" >
 <a href="https://github.com/thiyagu23/blog-website">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
 </a>
@@ -48,21 +48,21 @@
 <a href="https://github.com/thiyagu23/blog-website">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
 </a>
-</p>
+</div>
 
 
-<p align="center" >
+<div align="center" >
 <a  href="https://github.com/thiyagu23">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=thiyagu23&theme=github_dark&show_icons=true" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagu23&theme=github_dark&layout=compact" />
 </a>
-</p>
+</div>
 
 
 
 ## CONTACT ME
 
-<p align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/thiyagaraj-m"><img width="21%" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thiyagaraj M-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:thiyagaraj1501@gmail.com"><img width="30%" alt="Email" src="https://img.shields.io/badge/Email-thiyagaraj1501@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+</div>
