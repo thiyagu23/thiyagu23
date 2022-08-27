@@ -34,24 +34,24 @@ Hi, I'm a self-taught full-stack web developer who is passionate about new techn
 ## PORTFOLIO
 <p align="center" >
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
 </a>
 </p>
 
 
 <p align="center" >
 <a  href="https://github.com/thiyagu23">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thiyagu23&theme=github_dark&show_icons=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagu23&theme=github_dark&layout=compact" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=thiyagu23&theme=github_dark&show_icons=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagu23&theme=github_dark&layout=compact" />
 </a>
 </p>
 
