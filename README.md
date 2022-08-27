@@ -52,8 +52,8 @@
 
 <p align="center" >
 <a  href="https://github.com/thiyagu23">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=thiyagu23&theme=github_dark&show_icons=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagu23&theme=github_dark&layout=compact" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=thiyagu23&theme=github_dark&show_icons=true" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagu23&theme=github_dark&layout=compact" />
 </a>
 </p>
 
