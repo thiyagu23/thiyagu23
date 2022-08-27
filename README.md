@@ -1,23 +1,18 @@
-![](https://raw.githubusercontent.com/thiyagu23/thiyagu23/main/2022-08-27-13-21-26_AdobeExpress.gif)
+<p align="center">
+<img src ="https://raw.githubusercontent.com/thiyagu23/thiyagu23/main/2022-08-27-13-21-26_AdobeExpress.gif" >
+</p>
+
+## About Me
+Hi, I'm a self-taught full-stack web developer who is passionate about new technologies and loves exploring them.
+- 🧑🏻‍💻 currently learning more about M.E.R.N stack.
+- 🎯 I'm into Web3.0, Blockchain and AI technologies.
+- 🏢 I’m looking for a software developer job.
 
 
 
-### Hi there 👋
+## Tech & Tools
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-
----
-
-
-### Tech & Tools
-
+<p align="center">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 <img src="http://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
@@ -33,20 +28,21 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+</p>
+
+
+<p align="center" >
+<a  href="https://github.com/AVS1508">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiyagu23&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagu23&theme=buefy&layout=compact" />
+</a>
+</p>
 
 
 
----
+## Contact Me
 
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=thiyagu23&border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyagu23&title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
-
-
-
----
-
-
-### Contact Me
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/thiyagaraj-m"><img width="21%" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thiyagaraj M-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:thiyagaraj1501@gmail.com"><img width="30%" alt="Email" src="https://img.shields.io/badge/Email-thiyagaraj1501@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
