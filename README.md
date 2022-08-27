@@ -3,10 +3,12 @@
 </p>
 
 ## ABOUT ME
-Hi, I'm a self-taught full-stack web developer who is passionate about new technologies and loves exploring them.
-- 🧑🏻‍💻 currently learning more about M.E.R.N stack.
-- 🎯 I'm into Web3.0, Blockchain and AI technologies.
-- 🏢 I’m looking for a software developer job.
+
+<h4> Hi, I'm a self-taught full-stack web developer who is passionate about new technologies and loves exploring them. </h3>
+
+- <h4> 🧑🏻‍💻 currently learning more about M.E.R.N stack.
+- <h4>🎯 I'm into Web3.0, Blockchain and AI technologies.
+- <h4> 🏢 I’m looking for a software developer job.
 
 
 
@@ -34,16 +36,16 @@ Hi, I'm a self-taught full-stack web developer who is passionate about new techn
 ## PORTFOLIO
 <p align="center" >
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/blog-website">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&show_owner=true&theme=buefy&layout=compact" />
 </a>
 </p>
 
