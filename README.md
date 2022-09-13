@@ -11,10 +11,10 @@
 
 ## ABOUT ME
 
- Hi, I'm a self-taught full-stack web developer who is passionate about new technologies and love exploring them. 
+ Hi, I'm a full-stack web developer who is passionate about new technologies and love exploring them. 
 
 - 🧑🏻‍💻 currently learning more about M.E.R.N stack.
-- 🎯 I'm into Web3.0, Blockchain and AI technologies.
+- 🎯 I'm into Web3.0, Blockchain technologies.
 - 🏢 I’m looking for a software developer job.
 
 
