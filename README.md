@@ -40,7 +40,6 @@
 <img width = "52px" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img width = "80px" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img width = "90px" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img width = "80px" src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 </div>
 
 ## PORTFOLIO
