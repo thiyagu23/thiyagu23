@@ -1,7 +1,3 @@
-
-
----
-
 <div align="center">
 <img width = "95%" src ="https://raw.githubusercontent.com/thiyagu23/thiyagu23/main/2022-08-27-13-21-26_AdobeExpress.gif" >
 </div>
@@ -16,8 +12,6 @@
 
 
 
-[<div align="center">
-<img  width = "140px" src="http://img.shields.io/badge/-Resume-283274?style=flat&logo=read the docs&logoColor=white"></div>](https://github.com/thiyagu23/thiyagu23/raw/main/Resume%20(4).pdf)
 
 ## TECH & TOOLS
 
@@ -27,17 +21,27 @@
 <img width = "100px" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 <img width = "120px" src="http://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
 <img width = "105px" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img width = "65px" src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<!-- <img width = "65px" src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> -->
 <img width = "75px" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<!-- <img width = "90px" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> -->
+<!-- <img width = "52px" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> -->
+<img width = "80px" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+</div>
+
+
+
+ 
+<div align="center">   
+ 
+<img width = "85px" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img width = "105px" src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
 <img width = "100px" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img width = "85px" src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img width = "105px" src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
-<img width = "85px" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img width = "90px" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img width = "52px" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img width = "80px" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img width = "90px" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
 </div>
+
+
 
 ## PORTFOLIO
 <div align="center" >
