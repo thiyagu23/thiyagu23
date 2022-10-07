@@ -46,7 +46,7 @@
 ## PORTFOLIO
 <div align="center" >
 <a href="https://github.com/thiyagu23/meetups-app">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=meetups-app&theme=tokyonight&layout=compact" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=meetups-app&theme=buefy&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/trading-app">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=trading-app&theme=buefy&layout=compact" />
