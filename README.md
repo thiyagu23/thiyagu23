@@ -45,17 +45,17 @@
 
 ## PORTFOLIO
 <div align="center" >
-<a href="https://github.com/thiyagu23/tindog">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=tindog&theme=buefy&layout=compact" />
+<a href="https://github.com/thiyagu23/meetups-app">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=meetups-app&theme=buefy&layout=compact" />
 </a>
-<a href="https://github.com/thiyagu23/blog-website">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
+<a href="https://github.com/thiyagu23/trading-app">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=trading-app&theme=buefy&layout=compact" />
 </a>
-<a href="https://github.com/thiyagu23/blog-website">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
+<a href="https://github.com/thiyagu23/weather-app">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=weather-app&theme=buefy&layout=compact" />
 </a>
-<a href="https://github.com/thiyagu23/blog-website">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=blog-website&theme=buefy&layout=compact" />
+<a href="https://github.com/thiyagu23/booking-app">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=booking-app&theme=buefy&layout=compact" />
 </a>
 </div>
 
