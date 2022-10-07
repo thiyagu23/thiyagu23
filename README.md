@@ -16,8 +16,8 @@
 ## TECH & TOOLS
 
 <div align="center">
-<img width = "80px" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img width = "70px" src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img width = "83px" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img width = "72px" src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img width = "100px" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 <img width = "120px" src="http://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
 <img width = "105px" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -33,8 +33,8 @@
  
 <div align="center">   
  
-<img width = "85px" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img width = "105px" src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
+<img width = "90px" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img width = "108px" src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
 <img width = "100px" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img width = "85px" src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img width = "90px" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
@@ -46,7 +46,7 @@
 ## PORTFOLIO
 <div align="center" >
 <a href="https://github.com/thiyagu23/meetups-app">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=meetups-app&theme=buefy&layout=compact" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=meetups-app&theme=tokyonight&layout=compact" />
 </a>
 <a href="https://github.com/thiyagu23/trading-app">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=trading-app&theme=buefy&layout=compact" />
