@@ -43,7 +43,7 @@
 
 
 
-## PORTFOLIO
+## PROJECTS
 <div align="center" >
 <a href="https://github.com/thiyagu23/portfolio-website">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiyagu23&repo=portfolio-website&theme=buefy&layout=compact" />
